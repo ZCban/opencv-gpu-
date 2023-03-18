@@ -15,4 +15,8 @@ openproject
 
 debug to realese
 
+cmaketarget
+all build compile (it take 20/30 min)
+install compile
+finish
 
