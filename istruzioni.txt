@@ -1,0 +1,5 @@
+crea cartella opencv cuda con dentro opencv e opencv contrib 
+
+crea cartella cmake e strai i file di cmake 
+
+importare nel codice e nel condig path i nuovi percorsi
